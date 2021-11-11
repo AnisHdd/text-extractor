@@ -1,4 +1,4 @@
-# text-extraction-
+# text exctration from document
 The aim of this Notebook is to extract a text from file (include the PDF format)
 
 # Ojbectifs :
